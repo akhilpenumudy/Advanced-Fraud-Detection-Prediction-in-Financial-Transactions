@@ -20,6 +20,6 @@ Correlation Matrix: Analyzed relationships between features using a correlation 
 Data Distribution: Visualized the distribution of transactions and fraud statuses.
 ### - Model Performance
 High Accuracy: Achieved a remarkable accuracy of 99.8% in detecting fraudulent transactions, demonstrating the effectiveness of the implemented techniques.
-Conclusion
+## Conclusion:
 
 This project highlights the importance of comprehensive data preprocessing, feature engineering, and the use of advanced machine learning models in achieving **high accuracy** in fraud detection tasks. The successful implementation of these techniques resulted in an exceptionally accurate fraud detection model.
